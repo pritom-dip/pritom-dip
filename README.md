@@ -1,6 +1,6 @@
 ### Hi there, I'm [Pritom Chowdhury][website] 👋
 
-## I'm a 😍😍 JavaScript & PHP Lover 😍😍!
+## I'm a JavaScript & PHP Developer!!
 
 - 🔭 I’m currently Working at [Toiree It][programming]!
 - 🌱 I’m currently learning GraphQL 
