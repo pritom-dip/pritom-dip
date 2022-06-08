@@ -3,6 +3,7 @@
 ## I'm a Full Stack Developer!! (ReactJs, NextJs, NodeJs, ExpressJs)
 
 -   👋 Hi, I’m @pritomchowdhurydip
+-   📫 Currently working with [Re:cruit][recruit], A Y-Combinator registered were building silicon valley startup projects
 -   👀 I’m interested in React.Js, Next.Js, Redux, Material-UI, Express, MongoDB, PostgreSql, Firebase based web development
 -   🌱 I’m currently learning advanced and secure development with Node, Expresss and MongoDB
 -   💞️ I’m looking to collaborate on React.Js, Next.Js, Redux, Material-UI, Express, MongoDB, PostgreSql, Firebase based web development
@@ -15,15 +16,8 @@
 
 <br />
 
-[programming]: https://recruit.so/
-[website]: https:/techvivids.com/
-[twitter]: https:/techvivids.com/
-[linkedin]: https:/techvivids.com/
-[webdevplaylist]: https:/techvivids.com/
-[jsplaylist]: https:/techvivids.com/
-[cssplaylist]: https:/techvivids.com/
-[reactplaylist]: https:/techvivids.com/
-[firebaseplaylist]: https:/techvivids.com/
+[recruit]: https://recruit.so/
+[website]: https://pritom-dip.web.app/
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritom-dip&show_icons=true&theme=mona=kali&title_color=3cb480&locale=en" alt="Pritom Chowdhury Dip" width="550px" />
 
