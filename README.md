@@ -1,46 +1,21 @@
 ### Hi there, I'm [Pritom Chowdhury][website] 👋
 
-## I'm a JavaScript & PHP Developer!!
+## I'm a Full Stack Developer!! (ReactJs, NextJs, NodeJs, ExpressJs)
 
-- 🔭 I’m currently Working at [Toiree It][programming]!
-- 🌱 I’m currently learning GraphQL 
-- 🥅 2021 Goals: GraphQL, Python
-- 💬 Ask me about React
-- ⚡ Fun fact: I love to Explore Newer Technologies/Languages
+-   👋 Hi, I’m @pritomchowdhurydip
+-   👀 I’m interested in React.Js, Next.Js, Redux, Material-UI, Express, MongoDB, PostgreSql, Firebase based web development
+-   🌱 I’m currently learning advanced and secure development with Node, Expresss and MongoDB
+-   💞️ I’m looking to collaborate on React.Js, Next.Js, Redux, Material-UI, Express, MongoDB, PostgreSql, Firebase based web development
+-   📫 Feel free to contact pritomdip010@gmail.com
 
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/pritom-chowdhury-dip/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/pritomchowdhurydip)
 
-
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />][webdevplaylist]
-[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Laravel" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />][webdevplaylist]
-[<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />][webdevplaylist]
-[<img align="left" alt="NodeJs" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="WordPress" width="40px" src="https://www.logo.wine/a/logo/WordPress.com/WordPress.com-Logo.wine.svg" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][reactplaylist]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />][firebaseplaylist]
-[<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-
-
-<br />
-
-<br />
-
-<br />
-
-[programming]: https://www.toiree.com
+[programming]: https://recruit.so/
 [website]: https:/techvivids.com/
 [twitter]: https:/techvivids.com/
 [linkedin]: https:/techvivids.com/
